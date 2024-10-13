@@ -1,9 +1,9 @@
 package main
 
 import (
-	"melato.org/test.dot"
+	"melato.org/dot.test"
 )
 
 func main() {
-	test.F()
+	dot.F()
 }
